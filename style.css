@@ -1,0 +1,44 @@
+
+body {
+    background-color: #f1f4f9;
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    padding: 15px;
+}
+
+.card {
+    border: none;
+    border-radius: 12px;
+}
+
+h3 {
+    color: #333;
+    font-weight: bold;
+}
+
+.form-control {
+    padding: 10px;
+}
+
+.btn {
+    padding: 8px 18px;
+}
+
+table {
+    text-align: center;
+    vertical-align: middle;
+}
+
+table th {
+    white-space: nowrap;
+}
+
+.edit-btn {
+    margin-right: 5px;
+}
+
+#emptyMessage {
+    margin-top: 15px;
+}
